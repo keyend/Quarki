@@ -9,3 +9,6 @@ MD5值:B7D1EE02C2F4F2C4E4DE87F07E7E7AD7
 原串:amount=2.00&appid=1072352&callback_url=http://119.23230.224/lh_notice/backurl2&error_url=http://www.baidu.com&out_trade_no=12152239431937091&out_uid=1072352&pay_type=alipay&success_url=http://www.baidu.com&version=v1.1&key=hNWcxHQIADo06qKbip7kzx68kweS3EUL
 
 {"appid":"1072352","pay_type":"alipay","out_trade_no":"12152239431937091","amount":"2.00","callback_url":"http:\/\/119.23230.224\/lh_notice\/backurl2","success_url":"http:\/\/www.baidu.com","error_url":"http:\/\/www.baidu.com","version":"v1.1","out_uid":"1072352","sign":"1CCAF8C0E7EFC5D9873ACA3C049DCC9B"}
+
+原串:amount=100.00&appid=1072352&callback_url=http://api.ok1119.com/notify/qtpay/notify_res.htm&error_url=http://docstar.ok1119.com/demo/return.htm&out_trade_no=P01000020200229114728726&out_uid=1072352&pay_type=alipay&return_type=app&success_url=http://docstar.ok1119.com/demo/return.htm&version=v1.1&key=hNWcxHQIADo06qKbip7kzx68kweS3EUL
+json:{"return_type":"app","appid":"1072352","pay_type":"alipay","out_trade_no":"P01000020200229114728726","amount":"100.00","callback_url":"http:\/\/api.ok1119.com\/notify\/qtpay\/notify_res.htm","success_url":"http:\/\/docstar.ok1119.com\/demo\/return.htm","error_url":"http:\/\/docstar.ok1119.com\/demo\/return.htm","version":"v1.1","out_uid":"1072352","sign":"1E35E83E89F69F21B7276E2B9D507CB8"}
