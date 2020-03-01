@@ -7,3 +7,5 @@ MD5值:B7D1EE02C2F4F2C4E4DE87F07E7E7AD7
 文档要求参数:appid,pay_type,amount,callback_url,success_url,error_url,out_uid,out_trade_no,version,sign
 
 原串:amount=2.00&appid=1072352&callback_url=http://119.23230.224/lh_notice/backurl2&error_url=http://www.baidu.com&out_trade_no=12152239431937091&out_uid=1072352&pay_type=alipay&success_url=http://www.baidu.com&version=v1.1&key=hNWcxHQIADo06qKbip7kzx68kweS3EUL
+
+{"appid":"1072352","pay_type":"alipay","out_trade_no":"12152239431937091","amount":"2.00","callback_url":"http:\/\/119.23230.224\/lh_notice\/backurl2","success_url":"http:\/\/www.baidu.com","error_url":"http:\/\/www.baidu.com","version":"v1.1","out_uid":"1072352","sign":"1CCAF8C0E7EFC5D9873ACA3C049DCC9B"}
